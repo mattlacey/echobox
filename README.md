@@ -11,4 +11,8 @@ Simply start with:
 	
 and then make requests like:
 
-    http://<your ip>:5000/?echo=LogThis.
+    http://<your ip>:5000/?echo=LogThis
+
+e.g.:
+
+    http://192.168.0.10:5000/?echo=LogThis
